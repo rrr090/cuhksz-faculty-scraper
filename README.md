@@ -1,13 +1,12 @@
 # CUHK-Shenzhen faculty scraper
 
+![A tour of the vault in Obsidian's graph view: it zooms into each school's page to show the links to its professors, then into a shared research-interest page, such as Machine Learning, that links two schools](docs/graph-tour.gif)
+
+*The vault in Obsidian's graph view. Each school has its own colour, and shared research-interest pages link professors across schools.*
+
 Browse every professor at CUHK-Shenzhen in one place, and see who appears to be taking research assistants.
 
 The tool scrapes the faculty directory of every school, merges people listed by more than one school, crawls each professor's personal site, looks for recruiting statements, and writes everything to a linked [Obsidian](https://obsidian.md) vault. It can also rank professors by how well their work matches topics you choose.
-
-<!-- Screenshot of Obsidian's graph view: save it as docs/graph-view.png -->
-![Obsidian's graph view of the vault, with one colour per school](docs/graph-view.png)
-
-*The vault in Obsidian's graph view. Each school has its own colour, and grey nodes are shared research-interest pages that link professors across schools.*
 
 ```text
 $ cuhksz-faculty run
@@ -38,8 +37,6 @@ cuhksz-faculty schools                # list the school keys
 ```
 
 Then open the `vault` folder in Obsidian with **Open folder as vault** and start at `00 Start here`.
-
-![A tour of the graph view: it zooms into each school's page to show the links to its professors, then into a shared research-interest page, such as Machine Learning, that links two schools](docs/graph-tour.gif)
 
 In the graph view, each school's professors and its school page share a colour, listed on `00 Start here`. Set `color = "#RRGGBB"` on a school in the config to change it. A rebuild replaces only these school colour groups in `.obsidian/graph.json`, so your other graph settings are kept.
 
