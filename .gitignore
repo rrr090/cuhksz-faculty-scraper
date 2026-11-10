@@ -1,0 +1,24 @@
+# Raw scraped pages and intermediate JSON
+data/
+
+# Personal: your research themes and the scored vault built from them.
+# The public vault/ is built from the default config, which has no themes.
+config.toml
+private-vault/
+*.review.json
+review.json
+
+# Obsidian keeps per-user state here (open notes, recent files). Only the
+# graph settings, which hold the school colours, are shared.
+**/.obsidian/*
+!**/.obsidian/graph.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+dist/
+build/
+*.egg-info/
+uv.lock

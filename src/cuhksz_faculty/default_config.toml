@@ -1,0 +1,67 @@
+# Copy this file to config.toml, edit it, and pass --config config.toml.
+
+[crawl]
+user_agent = "cuhksz-faculty-scraper/0.2"
+host_delay_seconds = 1.0
+max_pages_per_site = 8
+workers = 8
+# Hosts that only offer older TLS ciphers, in addition to the school sites below.
+legacy_tls_hosts = ["https://myweb.cuhk.edu.cn"]
+
+# The schools to crawl. All of them use the same directory template.
+# Each school's notes get their own colour in Obsidian's graph view. Set
+# color = "#RRGGBB" on a school to choose it; otherwise one is picked for you.
+
+[[schools]]
+key = "sai"
+name = "School of Artificial Intelligence"
+base_url = "https://sai.cuhk.edu.cn"
+
+[[schools]]
+key = "sds"
+name = "School of Data Science"
+base_url = "https://sds.cuhk.edu.cn"
+
+[[schools]]
+key = "sse"
+name = "School of Science and Engineering"
+base_url = "https://sse.cuhk.edu.cn"
+
+[[schools]]
+key = "sme"
+name = "School of Management and Economics"
+base_url = "https://sme.cuhk.edu.cn"
+
+[[schools]]
+key = "hss"
+name = "School of Humanities and Social Science"
+base_url = "https://hss.cuhk.edu.cn"
+
+[[schools]]
+key = "med"
+name = "School of Medicine"
+base_url = "https://med.cuhk.edu.cn"
+
+[[schools]]
+key = "music"
+name = "School of Music"
+base_url = "https://music.cuhk.edu.cn"
+
+[[schools]]
+key = "spp"
+name = "School of Public Policy"
+base_url = "https://spp.cuhk.edu.cn"
+
+# Optional: rank professors by how well their work matches your topics.
+# With no themes, the vault has no scores, so it can be shared without
+# revealing your interests. Add themes to your own copy of this file.
+# Each theme needs:
+#   weight   how much a perfect match on this theme alone is worth, from 0 to 1
+#   tag      Obsidian tag added to professors who match
+#   pattern  case-insensitive regular expression
+#
+# [[themes]]
+# name = "Graph learning"
+# weight = 0.80
+# tag = "graphs"
+# pattern = 'graph neural network\w*|\bGNNs?\b|graph learning'

@@ -1,0 +1,63 @@
+---
+name: "TSUI, Chi Ho Ban"
+rank: "Adjunct Full Professor"
+appointment: ""
+schools: ["med"]
+hiring: no_site
+hiring_origin: auto
+email: "bantsui@cuhk.edu.cn"
+website: ""
+areas: ["Clinical Medicine"]
+interests: ["Clinical Medicine", "Biomedical Science & Engineering", "Metabolic and Cardiovascular Disease"]
+fields: ["Regional Anesthesia", "Regional Nerve Blocks", "Ultrasound", "Advanced Airway Management", "Pediatric Anesthesia", "Regional Anesthesia for Cardiac Anesthesia", "Medical Device Design", "Nerve Stimulation"]
+source: "https://med.cuhk.edu.cn/en/teacher/1182"
+tags: ["professor", "med"]
+---
+
+# TSUI, Chi Ho Ban
+
+⚪ No personal site listed
+
+Adjunct Full Professor  
+School: [[School of Medicine]]  
+Email: bantsui@cuhk.edu.cn  
+[Listing](https://med.cuhk.edu.cn/en/teacher/1182)
+
+## Hiring evidence
+
+⚪ **No personal site listed**
+
+## Research
+
+Research interests: [[Clinical Medicine]], [[Biomedical Science & Engineering]], [[Metabolic and Cardiovascular Disease]]
+
+Fields: Regional Anesthesia, Regional Nerve Blocks, Ultrasound, Advanced Airway Management, Pediatric Anesthesia, Regional Anesthesia for Cardiac Anesthesia, Medical Device Design, Nerve Stimulation
+
+## Credentials
+
+- Associate Dean (Medical Education); Head of Division of Clinical Medicine & Hospital Network; Chair and Chief, Department of Anesthesiology, Critical Care, and Pain Medicine
+- World's Top 2% Scientist; Fellow of the Royal College of Physicians of Canada; Fellow of the American Society of Regional Anesthesia and Pain Medicine; Fellow of the American Society of Anesthesiologists; Fellow of the Academy of Medical Educators; Adjunct Full Professor, Stanford University
+- Presidential Chair Professor, Professor (Clinical)
+
+## Education
+
+MD (Dalhousie University) MSc of Pharmacy (Dalhousie University) BSc of Pharmacy (Dalhousie University) BSc of Mathematics (Dalhousie University) Professional Qualifications Postgraduate Diploma, University of Melbourne, Postgraduate Diploma in Perioperative and Critical Care Echocardiography - Anesthesia Board Certification, College of Physicians and Surgeons of British Columbia, Anesthesia Board Certification, Royal College of Physicians and Surgeons of Canada, Anesthesia Fellow of the Royal College of Physicians of Canada (FRCPC), Anesthesia Board Certification, College of Physicians and Surgeons of Alberta, Anesthesia Residency, University of Alberta Hospital, Anesthesia Certificate, University of Alberta, Medical Acupuncture Diploma in Engineering, Dalhousie University, Engineering
+
+## Biography
+
+Prof. Tsui completed his medical training at Dalhousie University, Halifax, in 1995 after obtaining his Masters of Science in Pharmacy in 1991. These degrees followed a Diploma in Engineering and Bachelors of Science in both Mathematics and Pharmacy. Prof. Tsui completed his anesthesia residency training at the University of Alberta Hospital in Edmonton in 2000, and he received further experience in pediatric anesthesia at British Columbia Children's Hospital in Vancouver. After 16 years of practice at the University of Alberta Hospital and Stollery Children’s Hospital, Prof. Tsui was recruited to Stanford University in 2016. Currently, Prof. Tsui is a University Medical Line Professor in the Department of Anesthesiology, Perioperative, and Pain Medicine at Stanford University. In his position as an adult and pediatric anesthesiologist at the Stanford University Medical Center and the Lucile Packard Children’s Hospital, he specializes in regional anesthesia techniques. Prof. Tsui is an avid and internationally recognized researcher in many areas of regional anesthesia. During his residency, Prof. Tsui developed an interest in improving the accuracy of epidural catheter placement and was issued a U.S. patent in relation to his research. Prof. Tsui has expanded his research into the use of ultrasound in regional anesthesia, with particular relevance to peripheral nerve block performance. Prof. Tsui is also responsible for development of the E-Catheter catheter-over-needle kit for use during peripheral nerve blocks. The primary objective of his research is to transform regional anesthesia from an “art” into a reliable and reproducible “science” by further exploring the basic scientific and clinical aspects of electrophysiological signal monitoring and integrating this with the latest advances in ultrasound. Academically, Prof. Tsui received the 2005 John Bradley Young Educator Award from the Canadian Anesthesiologists' Society. This award recognizes his work as a clinical educator, researcher, and anesthesia trainee role model. While in Canada, Prof. Tsui was the only Canadian invited to write a chapter for a prestigious American anesthesia textbook-Clinical Anesthesia (Barash). Prof. Tsui wrote the first textbook on Ultrasound-and Nerve Stimulation-Guided Regional Anesthesia. It's become the main reference for anesthesiologists who are interested to use ultrasound in regional anesthesia. This work was translated to Korean. Prof. Tsui also co-authored the first pediatric textbook on the subject, the Pediatric Atlas of Ultrasound-and Nerve Stimulation-Guided Regional Anesthesia. This work has also been translated to Chinese and received positive reviews. In addition, Prof. Tsui co-authored and edited "Principles of Airway Management" and "Complications in Regional Anesthesia." From 2006 to 2018, Prof. Tsui served on the editorial board of the Canadian Journal of Anesthesia. Prof. Tsui is currently the editor of the journal of Regional Anesthesia and Pain Medicine. Prof. Tsui has received the Alberta Heritage Foundation for Medical Research (AHFMR) Clinical Scholar award and has previously received research awards and grants from the Canadian Institutes of Health Research (CIHR), Canadian Anesthesiologists’ Society, AHFMR, and University of Alberta. In 2015, a prestigious award, the CAS Research Recognition Award, was presented by the Canadian Anesthesiologists’ Society to Prof. Tsui "in recognition of significant research contributions to regional anesthesia, acute pain management and pediatric anesthesia in Canada and around the world". In 2022, the American Society of Regional Anesthesia and Pain Medicine (ASRA) awarded Prof. Tsui, the Distinguish Service Award. This prestigious annual award has been presented to honor persons who have made remarkable contributions to the field of regional anesthesia and pain medicine. In 2025, Prof. Tsui received the Gaston Labat Award from ASRA in recognition of his outstanding contributions to the advancement, education, and clinical practice of regional anesthesia. In the same year, he also received the Distinguished Service Award from the Dalhousie Medical Alumni Association (DMAA), honoring his continued dedication and service to the medical profession and his alma mater. In 2026, Prof. Ban Tsui was inducted as a Fellow of the American Society of Anesthesiologists (FASA) and a Fellow of the Academy of Medical Educators (FAcadMEd).
+
+## Publications listed on profile
+
+1. Selected Publications Chen, J. S., & Tsui, B. C. H . (2023). Systemic Absorption of Lidocaine From Intermittent Bolus Serratus Anterior Plane Catheters: A Single- Institution Experience. Journal of Cardiothoracic and Vascular Anesthesia , 37 (7), 1335–1336. https://doi.org/10.1053/j.jvca.2023.03.029 Foster, B., Chen, J., & Tsui, B. C. H . (2023). A Stepwise Approach to Locating the Antrum During Gastric Ultrasound. Journal of Cardiothoracic and Vascular Anesthesia , 37 (3), 498–499. https://doi.org/10.1053/j.jvca.2022.11.030 Greene, J. J., Chao, S., & Tsui, B. C. H . (2024). Clinical Outcomes of Erector Spinae Plane Block for Midline Sternotomy in Cardiac Surgery: A Systematic Review and Meta-Analysis. Journal of Cardiothoracic and Vascular Anesthesia , 38 (4), 964–973. https://doi.org/10.1053/j.jvca.2023.12.014 Hill, J. D., & Tsui, B. C. H . (2021). False negative electrical epidural stimulation test due to the excessive impedance of a saline bridge. Canadian Journal of Anaesthesia = Journal Canadien d’anesthesie , 68 (5), 742–743. https://doi.org/10.1007/s12630-021-01915-5 Kim, R. K., Brodt, J., MacArthur, J. W., & Tsui, B. C. H . (2022). Continuous Serratus Anterior Plane Block: A Team Approach. Journal of Cardiothoracic and Vascular Anesthesia , 36 (4), 1217–1218. https://doi.org/10.1053/j.jvca.2021.10.036 Miser, J., Seering, M., Sondekoppam, R. V., Ip, V. H. Y., & Tsui, B. C. H . (2022). Single perineural catheter for hybrid technique of combined peripheral nerve stimulation and regional local anesthetic nerve block to manage phantom limb pain: Time to jump on the neuromodulation bandwagon? Regional Anesthesia and Pain Medicine , 47 (4), 277–278. https://doi.org/10.1136/rapm-2021-103220 Pan, S. J., Vorhies, J. S., Lee, L. H., López, J. R., & Tsui, B. C. H . (2022). The effect of intraoperative lidocaine administration in a disrupted erector spinae fascial plane on intercostal transcranial motor evoked potentials. Journal of Clinical Anesthesia , 82 , 110956. https://doi.org/10.1016/j.jclinane.2022.110956 Pan, S., Lee, C. K., Caruso, T. J., Vorhies, J. S., & Tsui, B. C. H . (2022). Systemic lidocaine absorption from continuous erector spinae plane catheters after paediatric posterior spine fusion surgery. Regional Anesthesia and Pain Medicine , 47 (4), 251–252. https://doi.org/10.1136/rapm-2021-103234 Seol, A., & Tsui, B. C. H . (2022). Intraneural injection: Volume and pressure. Regional Anesthesia and Pain Medicine , 47 (4), 275–276. https://doi.org/10.1136/rapm-2021-103275 Smith, L., Balakrishnan, K., Pan, S., & Tsui, B. C. H . (2021). Suprazygomatic maxillary (SZM) nerve blocks for perioperative pain control in pediatric tonsillectomy and adenoidectomy. Journal of Clinical Anesthesia , 71 , 110240. https://doi.org/10.1016/j.jclinane.2021.110240 Sun, L. Y., Basireddy, S., Gerber, L. N., Lamano, J., Costouros, J., Cheung, E., Boublik, J., Horn, J. L., & Tsui, B. C. H . (2022). Continuous interscalene versus phrenic nerve-sparing high-thoracic erector spinae plane block for total shoulder arthroplasty: A randomized controlled trial. Canadian Journal of Anaesthesia = Journal Canadien d’anesthesie , 69 (5), 614–623. https://doi.org/10.1007/s12630-022-02216-1 Tsui, B. C. H . (2022). Deep extubation with no touch (DENT) technique. Journal of Pediatric Surgery , 57 (5),
+2. https://doi.org/10.1016/j.jpedsurg.2021.11.001 Tsui, B. C. H . (2023). Precision in nomenclature: Blocks and injections. Regional Anesthesia and Pain Medicine , rapm-2023-104908. https://doi.org/10.1136/rapm-2023-104908 Tsui, B. C. H ., Brodt, J., Pan, S., Caruso, T. J., Kim, R., Horn, J. L., Boublik, J., & Tsui, J. H. (2021). Alternating Side Programmed Intermittent Repeated (ASPIRe) Bolus Regimen for Delivering Local Anesthetic via Bilateral Interfascial Plane Catheters. Journal of Cardiothoracic and Vascular Anesthesia , 35 (10), 3143–3145. https://doi.org/10.1053/j.jvca.2021.02.036 Tsui, B. C. H ., & Elsharkawy, H. (2022). Cervical erector spinae versus retrolaminar plane block as an alternative to classical interscalene block. Regional Anesthesia and Pain Medicine , 47 (1),
+3. https://doi.org/10.1136/rapm-2021-102831 Tsui, B. C. H ., Elsharkawy, H., Mounir, L., Kolli, S., Narouze, S., & Drake, R. (2021). Epidural placement using catheter over needle: A cadaver study. Regional Anesthesia and Pain Medicine , 46 (10), 926–927. https://doi.org/10.1136/rapm-2021-102486 Tsui, B. C. H ., & Gupta, R. K. (2023). Role of neuromodulation in acute pain settings. Regional Anesthesia and Pain Medicine , 48 (6), 338–342. https://doi.org/10.1136/rapm-2022-103837 Tsui, B. C. H ., Pan, S., Smith, L., Lin, C., & Balakrishnan, K. (2021). Opioid-Free Tonsillectomy With and Without Adenoidectomy: The Role of Regional Anesthesia in the “New Era”. Anesthesia and Analgesia , 133 (1), e7–e9. https://doi.org/10.1213/ANE.0000000000005567 Tsui, B. C. H ., & Sun, L. Y. (2022). In reply: Hemidiaphragmatic paresis associated with interscalene nerve block. Canadian Journal of Anaesthesia = Journal Canadien d’anesthesie , 69 (10), 1313–1314. https://doi.org/10.1007/s12630-022-02290-5 Zoghbi, V., Okonski, F., Pan, S., Lin, C., Balakrishnan, K., & Tsui, B. C. H . (2022). Suprazygomatic infratemporal pterygopalatine fossa block with adjuvant low-dose dexmedetomidine for adenotonsillectomy. Canadian Journal of Anaesthesia = Journal Canadien d’anesthesie , 69 (4), 555–557. https://doi.org/10.1007/s12630-022-02190-8
+
+## Outreach
+- [ ] Check personal website for open RA/intern positions
+- [ ] Read a recent paper
+- [ ] Draft tailored email
+- [ ] Sent email (date: )
+- [ ] Response received
+
+## My notes
